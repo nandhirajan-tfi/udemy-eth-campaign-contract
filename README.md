@@ -23,3 +23,6 @@
 - Voting Requirements
     - No multiple votings for the user
     - System can't wait for the voting for all approvers
+
+- Use of memory keyword
+- Use of storage keyword
